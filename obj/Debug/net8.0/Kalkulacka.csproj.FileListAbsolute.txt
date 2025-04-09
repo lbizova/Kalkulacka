@@ -1,0 +1,14 @@
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\bin\Debug\net8.0\Kalkulacka.exe
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\bin\Debug\net8.0\Kalkulacka.deps.json
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\bin\Debug\net8.0\Kalkulacka.runtimeconfig.json
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\bin\Debug\net8.0\Kalkulacka.dll
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\bin\Debug\net8.0\Kalkulacka.pdb
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.AssemblyInfoInputs.cache
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.AssemblyInfo.cs
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.dll
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\refint\Kalkulacka.dll
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.pdb
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.genruntimeconfig.cache
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\ref\Kalkulacka.dll
