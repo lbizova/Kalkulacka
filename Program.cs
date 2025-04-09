@@ -2,15 +2,13 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) //metoda Main je vstupní bod programu
     {
         Kalkulacka kalk = new Kalkulacka();
-
-        Console.WriteLine("Zadej první číslo:");
-        double a = Convert.ToDouble(Console.ReadLine());
-
-        Console.WriteLine("Zadej druhé číslo:");
-        double b = Convert.ToDouble(Console.ReadLine());
+        
+        //použití ověřování vstupů
+        double a = ZadejCislo("Zadej první číslo:");
+        double b = ZadejCislo("Zadej druhé číslo:");
 
         double soucet = kalk.Secti(a, b);
         double rozdil = kalk.Odecitani(a, b);
@@ -22,4 +20,22 @@ class Program
         Console.WriteLine($"Součin: {soucin}");
         Console.WriteLine($"Podíl: {podil}");
     }
+    static double ZadejCislo(string vyzva)// metoda pro zadání čísla a kontrolu vstupu
+{
+    double cislo;
+    while (true)
+    {
+        Console.Write(vyzva + " ");
+        string vstup = Console.ReadLine();
+
+        if (double.TryParse(vstup, out cislo))
+        {
+            return cislo;
+        }
+        else
+        {
+            Console.WriteLine("Neplatné číslo, zkus to znovu.");
+        }
+    }
+}
 }
