@@ -12,3 +12,4 @@ C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\refint\K
 C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.pdb
 C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.genruntimeconfig.cache
 C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\ref\Kalkulacka.dll
+C:\Users\lucie\Documents\Czechitas\C#1_2024\Kalkulacka\obj\Debug\net8.0\Kalkulacka.sourcelink.json
