@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kalkulacka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ca2ba576feb0ea314acc14146a3b21e0f08888c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3775fca124a5ee53f966367c2cf9a69906a8438")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kalkulacka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kalkulacka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

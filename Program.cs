@@ -14,8 +14,12 @@ class Program
 
         double soucet = kalk.Secti(a, b);
         double rozdil = kalk.Odecitani(a, b);
+        double soucin = kalk.Nasobeni(a, b);
+        double podil = kalk.Deleni(a, b);
 
         Console.WriteLine($"Součet: {soucet}");
-        Console.WriteLine($"Rozdíl: {rozdil}");
+        Console.WriteLine($"Rozdíl: {rozdil}"); 
+        Console.WriteLine($"Součin: {soucin}");
+        Console.WriteLine($"Podíl: {podil}");
     }
 }
